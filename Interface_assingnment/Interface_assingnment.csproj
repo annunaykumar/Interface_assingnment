@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Interface_assingnment.TCS.Program</StartupObject>
+    <StartupObject>Interface_assingnment.TCS.Accenture.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
